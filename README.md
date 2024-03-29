@@ -1,4 +1,4 @@
-# Introducción
+# Blockchain
 
 El presente proyecto consiste en la implementación de una "BlockChain" en base a las estructuras que se han visto previamente en clase (Listas enlazadas, Arboles binarios, etc.) y otras que son derivadas de las estructuras bases con las que hemos trabajado, pero que dependiendo de en qué caso trabajemos están mejor optimizadas (B Tree, ChainHash, etc). En las siguientes secciones se podrá visualizar mejor la implementación y documentación respecto a estas, así como los casos de estudio para los cuales resultan más pertinentes.
 
